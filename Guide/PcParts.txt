@@ -1,0 +1,6 @@
+GTX 970,400,PCIE 3.0,Mid Tier GPU,120,0,0
+Z270 HD3P,120,1151,Mid Tier Motherboard,0,2,1
+HyperX,40,DDR4,Mid Tier item,10,3,1
+Intel i7 7700K,450,1151,Stupidly hot cpu,190,1,1
+Samsung EVO,120,SATA,good ssd,30,5,1
+Corsair RMi,120,All,quality shit,0,6,1
